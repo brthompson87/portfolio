@@ -1,0 +1,30 @@
+body {
+    background-color: #263238;
+}
+
+/* Style the header background color */
+.header-circle {
+    padding: 1rem;
+}
+
+.skills-bg {
+    background-color: white;
+    color: black;
+}
+
+i {
+    font-size: 3rem;
+    padding: 1rem;
+}
+
+.container-fluid {
+    padding: 3rem;
+}
+
+h3 {
+    color: white;
+}
+
+#header {
+    background-color: #5A7D5E;
+}
