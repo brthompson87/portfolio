@@ -2,29 +2,26 @@ body {
     background-color: #263238;
 }
 
-/* Style the header background color */
-.header-circle {
+header {
+    background-color: #5A7D5E;
+    color: #fff;
     padding: 1rem;
 }
 
-.skills-bg {
-    background-color: white;
-    color: black;
+#header h2 {
+    padding: .5rem;
 }
 
-i {
-    font-size: 3rem;
+#skills {
+    background-color: #7d6d5a;
+    color: #000;
     padding: 1rem;
 }
 
-.container-fluid {
-    padding: 3rem;
-}
-
-h3 {
+#skills p {
     color: white;
 }
 
-#header {
-    background-color: #5A7D5E;
+#skills i {
+    font-size: 3.5rem;
 }
